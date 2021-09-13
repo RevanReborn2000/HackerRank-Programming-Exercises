@@ -1,3 +1,4 @@
+#!/bin/python3
 phoneBook = {}
 
 #no of entries
