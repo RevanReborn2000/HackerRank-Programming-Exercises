@@ -1,4 +1,4 @@
-#bin/python
+#!/bin/python3
 
 class Calculator:
     def power(self,n,p):
